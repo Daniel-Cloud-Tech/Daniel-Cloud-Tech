@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a>IT Support Technician and Aspiring Azure Administrator</a></h1>
+<h1>Hi, I'm Daniel! <br/><a>IT Support Technician and aspiring Azure Administrator</a></h1>
 
 <h2>Azure Cloud Projects:</h2>
 
