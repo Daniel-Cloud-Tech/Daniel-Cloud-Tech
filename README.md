@@ -6,4 +6,4 @@ Cost Management:
 
 <h2> 🤳 Connect with me:</h2>
 
-Linkedin: "https://www.linkedin.com/in/daniel-wood-320b50203/"
+<a href="https://www.linkedin.com/in/daniel-wood-320b50203/">🔗Linkedin</a> 
