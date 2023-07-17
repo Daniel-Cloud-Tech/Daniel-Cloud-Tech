@@ -3,7 +3,7 @@
 <h2>☁️Azure Cloud Projects:</h2> 
 <a href="https://github.com/Daniel-Cloud-Tech/Azure-Cost-Management/blob/main/README.md">💸Cost Management
   
-<a href="https://github.com/Daniel-Cloud-Tech/Azure-VM-Deployment)">💻Linux VM Deployment
+<a href="https://github.com/Daniel-Cloud-Tech/Azure-VM-Deployment">💻Linux VM Deployment
 
 
 <h2> 🤳 Connect with me:</h2>
