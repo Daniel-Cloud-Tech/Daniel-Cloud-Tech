@@ -1,6 +1,6 @@
 # Hi, I'm Daniel! 
 
-## IT Support Technician and aspiring Azure Administrator
+## IT Support Technician
 
 ### ☁️Azure Cloud Projects:
 <a href="https://github.com/Daniel-Cloud-Tech/Azure-Cost-Management/blob/main/README.md">💸Cost Management
